@@ -90,7 +90,7 @@ export default function LandingPage() {
               id: "1",
               name: "E-Commerce Platform",
               price: "React + Next.js",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1764588664771-9mtyicrg.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1764589153312-y746fycg.jpg",
               imageAlt: "two scrabble tiles spelling project update on a table"
             },
             {
